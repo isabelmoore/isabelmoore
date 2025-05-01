@@ -21,4 +21,5 @@
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelmoore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![My GitHub Visits](https://visitcount.itsvg.in/api?id=isabelmoore&icon=7&color=3)](https://visitcount.itsvg.in)
+[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelmoore&show_icons=true&theme=dark)](https://github.com/isabelmoore/github-readme-stats)
+
