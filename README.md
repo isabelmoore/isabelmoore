@@ -10,7 +10,7 @@
 
 ---
 
-I build robots that learn to navigate uncertain environments. My research combines **meta-reinforcement learning** with **adaptive control** to create systems that generalize across conditions they've never seen—from varying terrain dynamics to GPS-denied navigation.
+I build autonomous systems that learn adaptive control in uncertain environments. My research uses meta-reinforcement learning to train single policies capable of zero-shot generalization — from aerial intercept to ground navigation on unknown terrain. No hand-tuned parameters, no scenario-specific engineering. Just one policy.
 
 ---
 
