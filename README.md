@@ -10,7 +10,7 @@
 
 ---
 
-I build autonomous systems that learn adaptive control in uncertain environments. My research uses meta-reinforcement learning to train single policies capable of zero-shot generalization — from aerial intercept to ground navigation on unknown terrain. No hand-tuned parameters, no scenario-specific engineering. Just one policy.
+I build autonomous systems that learn adaptive control in uncertain environments. My research uses meta-reinforcement learning to train single policies capable of zero-shot generalization, from aerial intercept to ground navigation on unknown terrain. No hand-tuned parameters, no scenario-specific engineering. Just one policy.
 
 ---
 
