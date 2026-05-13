@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Systems Design Intern @ Northrop Grumman · Graduate Researcher @ LENS Lab & BCDC</strong>
+  <strong>Lockheed Martin, Prev @ Northrop Grumman · Graduate Researcher @ LENS Lab & BCDC</strong>
 </p>
 
 ---
